@@ -26,6 +26,7 @@ cout<<endl;
     cout<<"a<=b "<<(a<=b)<<endl;
     cout<<"a>b "<<(a>b)<<endl;
     cout<<"a<b "<<(a<b)<<endl;
+    cout<<"a+b = "<<(a+b)<<endl;
 
 cout<<endl;
     // Logical operators
